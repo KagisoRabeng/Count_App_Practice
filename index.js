@@ -15,6 +15,6 @@ function save() {
     // 3. Render the variable in the saveEl using innerText
     // NB: Make sure to not delete the existing content of the paragraph
     let saved = count + "-" 
-    saveEl.innerText += saved
+    saveEl.textContent += saved
 
 }
