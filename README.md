@@ -1,2 +1,2 @@
-# Practice_001
-Re-learning JavaScript
+# Count_App
+Re-learning JavaScript Fundamentals
